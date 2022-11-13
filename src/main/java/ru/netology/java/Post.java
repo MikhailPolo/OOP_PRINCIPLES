@@ -8,5 +8,5 @@ public class Post {
     public String patronymic;
     public String phone;
     public String surname;
-    boolean subcription;
+    public boolean subscription;
 }

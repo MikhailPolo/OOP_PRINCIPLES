@@ -10,9 +10,9 @@ public class Main {
         post.patronymic = "Иванович";
         post.phone = "+7 (999)-999-99-99";
         post.surname = "Иванович";
-        post.subcription = true;
-        post.birthday.day = "10";
-        post.birthday.month = "01";
-        post.birthday.year = "1990";
+        post.subscription = true;
+        post.birthday.day = 10;
+        post.birthday.month = 01;
+        post.birthday.year = 1990;
     }
 }
